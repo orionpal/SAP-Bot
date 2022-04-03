@@ -1,0 +1,31 @@
+{
+    "stats": {
+        "attack": 1.0,
+        "health": 1.0
+    },
+    "food": {
+        "Apple": 1.0,
+        "Honey": 1.0,
+        "Cupcake": 6.0,
+        "Meat Bone": 5.0,
+        "Sleeping Pill": 1.0,
+        "Garlic": 1.0,
+        "Salad Bowl": 1.0,
+        "Canned Food": 1.0,
+        "Pear": 1.0,
+        "Chili": 1.0,
+        "Chocolate": 1.0,
+        "Sushi": 1.0,
+        "Melon": 1.0,
+        "Mushroom": 1.0,
+        "Pizza": 1.0,
+        "Steak": 1.0
+    },
+    "spaces": {
+        "space0": 2.0,
+        "space1": 1.6,
+        "space2": 1.4,
+        "space3": 1.2,
+        "space4": 1.0
+    }
+}

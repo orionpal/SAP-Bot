@@ -1,0 +1,79 @@
+{
+    "1" : {
+      "foodShopSlots": 1,
+      "animalShopSlots": 3,
+      "livesLost": 1,
+      "tiersAvailable": 1,
+      "levelUpTier": 2
+    },
+    "2": {
+      "foodShopSlots": 1,
+      "animalShopSlots": 3,
+      "livesLost": 1,
+      "tiersAvailable": 1,
+      "levelUpTier": 2
+    },
+    "3": {
+      "foodShopSlots": 2,
+      "animalShopSlots": 3,
+      "livesLost": 2,
+      "tiersAvailable": 2,
+      "levelUpTier": 3
+    },
+    "4": {
+      "foodShopSlots": 2,
+      "animalShopSlots": 3,
+      "livesLost": 2,
+      "tiersAvailable": 2,
+      "levelUpTier": 3
+    },
+    "5": {
+      "foodShopSlots": 2,
+      "animalShopSlots": 4,
+      "livesLost": 3,
+      "tiersAvailable": 3,
+      "levelUpTier": 4
+    },
+    "6": {
+      "foodShopSlots": 2,
+      "animalShopSlots": 4,
+      "livesLost": 3,
+      "tiersAvailable": 3,
+      "levelUpTier": 4
+    },
+    "7": {
+      "foodShopSlots": 2,
+      "animalShopSlots": 4,
+      "livesLost": 3,
+      "tiersAvailable": 4,
+      "levelUpTier": 5
+    },
+    "8": {
+      "foodShopSlots": 2,
+      "animalShopSlots": 4,
+      "livesLost": 3,
+      "tiersAvailable": 4,
+      "levelUpTier": 5
+    },
+    "9": {
+      "foodShopSlots": 2,
+      "animalShopSlots": 5,
+      "livesLost": 4,
+      "tiersAvailable": 5,
+      "levelUpTier": 6
+    },
+    "10": {
+      "foodShopSlots": 2,
+      "animalShopSlots": 5,
+      "livesLost": 4,
+      "tiersAvailable": 5,
+      "levelUpTier": 6
+    },
+    "11": {
+      "foodShopSlots": 2,
+      "animalShopSlots": 5,
+      "livesLost": 5,
+      "tiersAvailable": 6,
+      "levelUpTier": 6
+    }
+}
